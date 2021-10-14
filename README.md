@@ -1,4 +1,4 @@
-# LosAngelesMountain
+# Los Angeles Mountain
 This is a simple page design using HTML and CSS
 
 
@@ -11,5 +11,5 @@ This is a simple page design using HTML and CSS
 * CSS
 
 
-#Deployment 
+##Deployment 
 Its deployed in Heroku
