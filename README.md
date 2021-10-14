@@ -12,4 +12,4 @@ This is a simple page design using HTML and CSS
 
 
 ##Deployment 
-Its deployed in Heroku
+* Its deployed in Heroku
