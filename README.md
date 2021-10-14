@@ -6,10 +6,10 @@ This is a simple page design using HTML and CSS
 
 ![Screenshot 2021-10-14 at 10 58 13 AM](https://user-images.githubusercontent.com/90886888/137257205-ca73cbaa-1b59-4ef3-acd6-60ff5b1794ae.png)
 
-##Technology Used
+# Technology Used
 * HTML
 * CSS
 
 
-##Deployment 
+# Deployment 
 * Its deployed in Heroku
