@@ -170,7 +170,7 @@ a {
   }
 }
 
-@media screen and (min-width: 280px) and (max-width: 1400px) {
+@media screen and (min-width: 400px) and (max-width: 1200px) {
   .header2 .nav2 {
     margin: 0;
     padding-top: 4px;
